@@ -1,0 +1,32 @@
+{
+  "name": "mev-bundle-submitter",
+  "version": "0.1.0",
+  "description": "Submits MEV bundles to all builders",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koraykoska/mev-bundle-submitter.git"
+  },
+  "keywords": [
+    "mev",
+    "ethereum",
+    "crypto",
+    "blockchain",
+    "searcher",
+    "bundle"
+  ],
+  "author": "Koray Koska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koraykoska/mev-bundle-submitter/issues"
+  },
+  "homepage": "https://github.com/koraykoska/mev-bundle-submitter#readme",
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.2",
+    "ethers": "^5.7.2"
+  }
+}
