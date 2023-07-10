@@ -1,6 +1,6 @@
 {
   "name": "mev-bundle-submitter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Submits MEV bundles to all builders",
   "main": "index.js",
   "type": "module",

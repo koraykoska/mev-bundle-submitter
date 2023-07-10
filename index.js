@@ -43,6 +43,9 @@ export class MEVBundleSubmitter {
     eden: {
       url: "https://api.edennetwork.io/v1/bundle",
     },
+    eigenphi: {
+      url: "https://builder.eigenphi.io/",
+    },
   };
 
   /**

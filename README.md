@@ -1,6 +1,16 @@
 # mev-bundle-submitter
 
+[![npm version](https://img.shields.io/npm/v/mev-bundle-submitter.svg?style=flat-square)](https://www.npmjs.org/package/mev-bundle-submitter)
+
 This npm package submits given bundles to all known builders in the Ethereum builder space.
+
+## Installation
+
+Using npm, do the following:
+
+```bash
+npm install --save mev-bundle-submitter
+```
 
 ## Example
 
