@@ -46,6 +46,9 @@ export class MEVBundleSubmitter {
     eigenphi: {
       url: "https://builder.eigenphi.io/",
     },
+    loki: {
+      url: "https://rpc.lokibuilder.xyz/",
+    },
   };
 
   /**
